@@ -1,0 +1,139 @@
+/* resumepage.css */
+
+.resume {
+  font-family: Arial, sans-serif;
+  /* max-width: 800px; */
+  margin: 0 auto;
+  padding: 20px;
+  background: linear-gradient(to bottom right, #c2e59c, #64b3f4);
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.section-divider {
+  margin-top: 20px;
+  /* border-top: 1px solid #ccc; */
+  border: none;
+  padding-top: 20px;
+}
+
+p {
+  margin: 5px 0;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
+
+button {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Personal Details Section */
+.personal-details {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+}
+
+/* Address Section */
+.address {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Education Section */
+.education {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Achievements Section */
+.achievements {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Work Experience Section */
+.work-experience {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Projects Section */
+.projects {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/* Skills Section */
+.skills {
+  /* border-top: 1px solid #ccc; */
+  padding-top: 20px;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.resumemain
+{
+  display: flex;
+  flex-direction: row;
+  
+}
